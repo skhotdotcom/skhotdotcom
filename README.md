@@ -48,4 +48,4 @@ Design leaders who can prototype upstream change the conversation with product a
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/skhot) · [Substack](https://substack.com/@skhot) · [Design Portfolio](https://skhot.com) · [Hello Partner](https://hellopartner.coach) · [Maven course](#)
+[LinkedIn](https://linkedin.com/in/skhot) · [Substack](https://substack.com/@skhot) · [Design Portfolio](https://skhot.com) · [Hello Partner](https://hellopartner.coach)
