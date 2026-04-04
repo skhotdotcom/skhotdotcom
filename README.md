@@ -1,6 +1,6 @@
 # Scott Purcell
 
-Principal design lead. DesignOps practitioner. 20 years in UX and product design.
+Principal design lead. DesignOps practitioner. 20+ years in UX and product design.
 
 ---
 
