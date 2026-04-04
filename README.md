@@ -16,11 +16,11 @@ I help product teams move from reactive execution to upstream strategic influenc
 
 ## Currently building
 
-**AI-assisted rapid prototyping for design leaders** — A Maven course on moving design teams upstream, using AI prototyping as the methodology. Coming soon.
+**AI-assisted rapid prototyping for design leaders** — A Maven course on moving product teams upstream, using AI prototyping as the methodology to elevate maturity models (culture, strategic, process, and tactics). Coming soon.
 
 **[Good Reader](https://github.com/skhotdotcom/good-reader)** — A free, local-first, open-source RSS reader. Personal project. I learn on my own terms.
-**[Executive Function Skill](https://github.com/skhotdotcom/executive-function) — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Exploring healthtech applications and skill writing. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
-**[Show Tracker](https://github.com/skhotdotcom/) - Exploring context documentation for AI and humans in rapid AI prototyping with emphasis on addressing scope clarity that combines research, testing, and cross-functional async collaboration.
+**[Executive Function Skill](https://github.com/skhotdotcom/executive-function)** — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Exploring healthtech applications and skill writing. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
+**[Show Tracker](https://github.com/skhotdotcom/show-tracker)** - Exploring context documentation for AI and humans in rapid AI prototyping with emphasis on addressing scope clarity that combines research, testing, and cross-functional async collaboration.
 
 ---
 
