@@ -16,13 +16,21 @@ I help product teams move from reactive execution to upstream strategic influenc
 
 ## Currently building
 
-**AI-assisted rapid prototyping for design leaders** — A Maven course on moving product teams upstream, using AI prototyping as the methodology to elevate maturity models (culture, strategic, process, and tactics). Coming soon.
+**[Hello Partner](https://hellopartner.coach)** — Design leadership coaching. Helping practitioners get better influence, pay, and personal agency — with measurable, science-backed support and goals they actually set for themselves.
+
+**Business infrastructure for coaching** — Automating the operational overhead of a coaching practice while keeping the client experience genuinely human. Human-in-the-loop by design, not by accident.
+
+**AI Prototyping Maturity Model** — A framework to help teams escape vibe-coding and position AI prototyping as a mechanism for delivering measurable business and customer value. Not a trend piece. A practical ladder.
+
+---
+
+## Past projects
 
 **[Good Reader](https://github.com/skhotdotcom/good-reader)** — A free, local-first, open-source RSS reader. Personal project. I learn on my own terms.
 
-**[Executive Function Skill](https://github.com/skhotdotcom/executive-function)** — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Exploring healthtech applications and skill writing. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
+**[Executive Function Skill](https://github.com/skhotdotcom/executive-function)** — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
 
-**[Show Tracker](https://github.com/skhotdotcom/show-tracker)** - Exploring context documentation for AI and humans in rapid AI prototyping with emphasis on addressing scope clarity that combines research, testing, and cross-functional async collaboration.
+**[Show Tracker](https://github.com/skhotdotcom/show-tracker)** — Context documentation for AI and humans in rapid AI prototyping, with emphasis on scope clarity across research, testing, and cross-functional async collaboration.
 
 ---
 
