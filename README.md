@@ -4,7 +4,7 @@ Principal design lead. DesignOps practitioner. 20 years in UX and product design
 
 ---
 
-If you're an early-stage team that needs design to drive decisions — not just deliver assets — that's the work I do. I use AI-assisted prototyping to compress the distance between a fuzzy idea and a testable hypothesis. Fast. I bring the research, systems thinking, and DesignOps infrastructure to make it repeatable.
+If you're an early-stage team that needs design to drive decisions — not just deliver assets — that's the work I do. I use AI-assisted prototyping to compress the distance between a fuzzy idea and a testable hypothesis. Fast. I bring the research, testing, systems thinking, and DesignOps infrastructure to make it repeatable.
 
 ---
 
@@ -19,6 +19,8 @@ I help product teams move from reactive execution to upstream strategic influenc
 **AI-assisted rapid prototyping for design leaders** — A Maven course on moving design teams upstream, using AI prototyping as the methodology. Coming soon.
 
 **[Good Reader](https://github.com/skhotdotcom/good-reader)** — A free, local-first, open-source RSS reader. Personal project. I learn on my own terms.
+**[Executive Function Skill](https://github.com/skhotdotcom/executive-function) — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Exploring healthtech applications and skill writing. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
+**[Show Tracker](https://github.com/skhotdotcom/) - Exploring context documentation for AI and humans in rapid AI prototyping with emphasis on addressing scope clarity that combines research, testing, and cross-functional async collaboration.
 
 ---
 
