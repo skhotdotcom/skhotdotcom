@@ -26,7 +26,7 @@ I help product teams move from reactive execution to upstream strategic influenc
 
 ## Past projects on Github
 
-**[Toyota Owners](https://github.com/skhotdotcom/toyota-owners)** - Hypothesis-driven responsive retrofit prototype that resolved a three-team alignment crisis and drove +200% account creation conversion. Built functional progressive login flows, location-aware dealer offers, and a living human/agent readable design system.
+**[Toyota Owners](https://github.com/skhotdotcom/toyota)** - Hypothesis-driven responsive retrofit prototype that resolved a three-team alignment crisis and drove +200% account creation conversion. Built functional progressive login flows, location-aware dealer offers, and a living human/agent readable design system.
 
 **[Show Tracker](https://github.com/skhotdotcom/show-tracker)** - Context documentation for AI and humans in rapid AI prototyping, with emphasis on scope clarity across research, testing, and cross-functional async collaboration.
 
