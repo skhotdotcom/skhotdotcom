@@ -14,7 +14,7 @@ I help product teams move from reactive execution to upstream strategic influenc
 
 ---
 
-## Currently building
+## Github Work-In-Progress (WiP)
 
 **[Hello Partner](https://hellopartner.coach)** — Design leadership coaching. Helping practitioners get better influence, pay, and personal agency — with measurable, science-backed support and goals they actually set for themselves.
 
@@ -24,13 +24,15 @@ I help product teams move from reactive execution to upstream strategic influenc
 
 ---
 
-## Past projects
+## Past projects on Github
 
-**[Good Reader](https://github.com/skhotdotcom/good-reader)** — A free, local-first, open-source RSS reader. Personal project. I learn on my own terms.
+**[Toyota Owners](https://github.com/skhotdotcom/toyota-owners)** - Hypothesis-driven responsive retrofit prototype that resolved a three-team alignment crisis and drove +200% account creation conversion. Built functional progressive login flows, location-aware dealer offers, and a living human/agent readable design system.
+
+**[Show Tracker](https://github.com/skhotdotcom/show-tracker)** - Context documentation for AI and humans in rapid AI prototyping, with emphasis on scope clarity across research, testing, and cross-functional async collaboration.
 
 **[Executive Function Skill](https://github.com/skhotdotcom/executive-function)** — An agent skill second brain that handles the cognitive overhead of planning, sequencing, tracking, and initiating so a person can focus on actually doing things. Available on [clawhub](https://clawhub.ai/skhotdotcom/executive-function).
 
-**[Show Tracker](https://github.com/skhotdotcom/show-tracker)** — Context documentation for AI and humans in rapid AI prototyping, with emphasis on scope clarity across research, testing, and cross-functional async collaboration.
+**[Good Reader](https://github.com/skhotdotcom/good-reader)** - A free, local-first, open-source RSS reader. Personal project. I learn on my own terms.
 
 ---
 
